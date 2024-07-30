@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+.cubo{
+	margin-top: 164px;
+	width: 368px;
+	box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
+}
+
+.centro{
+	display: flex;
+	justify-content: center;
+}
+
+.centro_cubo{
+	margin: 16px;
+	width: 336px;
+}
+
+.imagen{
+	width: 336px;
+	height: 152px;
+	border-radius: 16px;
+}
+
+.design{
+	display: inline-block;
+	color: #883AE1;
+	padding-right: 16px;
+	padding-left: 16px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	border-radius: 12px;
+	background-color: #E6D6FC;
+}
+
+.titulo{
+	font-family: "Sora", sans-serif;
+	font-size: 18px;
+	color: #20293A;
+}
+
+.body{
+	font-family: "Sora", sans-serif;
+    font-size: 14px;
+    color: #6C727F;
+}
+
+.small{
+    font-family: "Sora", sans-serif;
+    font-size: 12px;
+    color: #6C727F;
+
+}
+
+.tag{
+    font-family: "Sora", sans-serif;
+    font-size: 10px;
+}
+
+.border{
+	border-bottom: 1px solid #E5EAF0;
+}
+
+.separacion_16{
+	margin-top: 16px;
+}
+
+.separacion_6{
+	margin-top: 6px;
+}
+.separacion_20{
+	margin-top: 20px;
+}
+
+.separacion_20A{
+	margin-bottom: 20px;
+}
